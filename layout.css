@@ -18,6 +18,11 @@
   padding: 10px;
 }
 
+.menuInner {
+  background-color: aqua;
+  height: 70%;
+}
+
 .content {
   height: 200px;
   background-color: red;

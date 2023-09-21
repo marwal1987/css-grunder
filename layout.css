@@ -24,8 +24,10 @@
   width: 70%;
   float: left;
   padding: 20px;
+  opacity: 0.5;
 }
 
 .footer {
   background-color: aqua;
+  clear: both;
 }

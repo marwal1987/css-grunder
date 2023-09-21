@@ -1,0 +1,41 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+p {
+  color: green;
+}
+
+#myID {
+  color: purple;
+}
+
+.myClass {
+  color: burlywood;
+}
+
+p.myParagraph {
+  color: aquamarine;
+}
+
+p.myParagraph {
+  color: black;
+}
+
+.myUniversal {
+  color: yellow;
+}
+
+* {
+  color: blue;
+}
+
+h1,
+h2,
+h3 {
+  color: red;
+}
+
+/*CSS = Cascading Style Sheets
+    Cascading - Vilken css regel gäller ordning och hur specifik */

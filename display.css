@@ -1,0 +1,17 @@
+/*display: block; as default*/
+.box {
+  background-color: gray;
+  width: 100px;
+}
+
+/*display: inline; as default*/
+.mySpan {
+  background-color: blue;
+}
+
+/*Block - Börjar på ny rad och tar iåå hela skärmens bredd om den
+inte för en nu whith
+
+
+Inline - Börjar inte på en ny ead. Tar inte upp mer plats än nödvängninget.
+padding och margins flyttar inte ...*/
